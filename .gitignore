@@ -1,0 +1,48 @@
+# Arquivos de compilação Java
+*.class
+
+# Arquivos .jar gerados
+*.jar
+
+# Diretórios de compilação (geralmente chamados de "target" ou "out")
+/target/
+/out/
+
+# Diretórios de dependências (geralmente chamados de "lib" ou "libs")
+/lib/
+/libs/
+
+# Arquivos de configuração de IDE (Eclipse, IntelliJ, NetBeans, etc.)
+.classpath
+.project
+.settings/
+
+# Arquivos de log
+*.log
+
+# Arquivos de compilação e caches de IDE
+.idea/
+*.iml
+
+# Arquivos de configuração do Maven
+pom.xml
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/
+mvnw
+mvnw.cmd
+
+# Arquivos de configuração do Gradle
+build/
+.gradle/
+gradle-wrapper.jar
+gradle-wrapper.properties
+
+# Arquivos específicos do sistema operacional
+.DS_Store
+Thumbs.db
